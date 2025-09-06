@@ -14,7 +14,4 @@ El objetivo es implementar una pantalla de **Login y Registro** de manera simple
 - 🔗 Botones sociales para continuar con Google, Facebook o Apple  
 - 🐶 Iconografía y estilos pensados para una app veterinaria  
 
----
-
-## 📂 Estructura del proyecto
 
